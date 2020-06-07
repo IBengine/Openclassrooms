@@ -1,2 +1,0 @@
-# OPENCLASSROOMS
-xxx 
