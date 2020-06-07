@@ -26,7 +26,7 @@ def WriteCodecwd (text_file_name):
     fichier.close()
     return None
 
-if __name__ == '__main__':
+if __name__ == '__main__' :
     try:
         CreatFilecwd(str(argv[1]),str(argv[3]))
         print CCC.CryptageDeCesar(ReadFilecwd(str(argv[1])),int(argv[2]))
