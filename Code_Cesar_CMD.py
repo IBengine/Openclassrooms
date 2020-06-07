@@ -2,7 +2,7 @@
 from math import *
 import math as mat
 from sys import argv
-# original_text="Ave Caesar morituri te salutant"
+# original_text = "Ave Caesar morituri te salutant"
 
 def CryptageDeCesar (original_text,shifting_number):
     ordzmin=ord('z')
